@@ -85,3 +85,13 @@
 19. 
 
 20. 
+
+### Before You Go...
+I sincerely hope that this coding club helped you (at least a little bit). If you're still interested in learning more, I suggest that you check out this (online, but available for download and print) e-book [Resilient Web Design](https://resilientwebdesign.com/) by Jeremy Keith. As the book's first line says:
+
+> With a title like  Resilient Web Design, you might think that this is a handbook for designing robust websites. This is not a handbook. It’s more like a history book.
+
+Anyway, I look forward to seeing you again soon!
+
+Best Regards,
+Riyaad Azad :-)
