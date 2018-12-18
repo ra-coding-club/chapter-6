@@ -2,7 +2,7 @@
 
 **Please answer these questions and be as honest and sincere as you can.**
 
-**Questions**
+### Questions
 
 1. What was your project and what is the inspiration behind it?
 
@@ -44,7 +44,7 @@
 
 20. Was the course organized to allow all students to participate fully?
 
-**Answers**
+### Answers
 
 1. 
 
